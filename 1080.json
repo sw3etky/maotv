@@ -3,11 +3,11 @@
     "id": "1080zyk",
     "name": "1080高清视频",
     "type": 0,
-    "api": "https://api.yyzy-tv.vip/inc/feifei3_all/",
-    "logo": "https://1080zyk3.com/template/newstyle/images/logo.gif",
+    "api": "https://api.yyzy-tv.vip/inc/feifei3/",
+    "logo": "",
     "nsfw": false,
     "extra": {
-      "category": "[]"
+      "searchLimit": 20
     }
   }
 ]
