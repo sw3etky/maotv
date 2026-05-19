@@ -5,7 +5,7 @@
     "type": 0,
     "api": "https://api.yyzy-tv.vip/inc/feifei3_all/",
     "logo": "https://api.yyzy-tv.vip/static/images/logo.png",
-    "nsfw": true,
+    "nsfw": false,
     "extra": {
       "category": "[]"
     }
